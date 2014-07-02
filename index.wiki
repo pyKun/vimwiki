@@ -1,0 +1,12 @@
+== This is temporary homepage ==
+Below is my references...
+
+=== OSv blog understanding ===
+- [[ http://osv.io/blog/blog/2014/07/01/s3stat/ | What Is the Most Popular OSv Virtual Appliance? ]]
+- Dead hypervisors: [[ http://osv.io/blog/blog/2014/06/19/containers-hypervisors-part-1/ | part 1 ]]
+- Dead hypervisors: [[ http://osv.io/blog/blog/2014/06/19/containers-hypervisors-part-2/ | part 2 ]]
+- Dead hypervisors: [[ http://osv.io/blog/blog/2014/06/23/containers-hypervisors-part-3/ | part 3 ]]
+
+==== tasks ====
+* [ ] Deploy OSv
+* [ ] Deploy Docker
