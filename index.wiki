@@ -1,11 +1,22 @@
 == This is temporary homepage ==
-Below is my references...
+Below are my references...
 
 === OSv blog understanding ===
 - [[ http://osv.io/blog/blog/2014/07/01/s3stat/ | What Is the Most Popular OSv Virtual Appliance? ]]
 - Dead hypervisors: [[ http://osv.io/blog/blog/2014/06/19/containers-hypervisors-part-1/ | part 1 ]]
 - Dead hypervisors: [[ http://osv.io/blog/blog/2014/06/19/containers-hypervisors-part-2/ | part 2 ]]
 - Dead hypervisors: [[ http://osv.io/blog/blog/2014/06/23/containers-hypervisors-part-3/ | part 3 ]]
+
+=== twitter resource ===
+- [[ https://twitter.com/brendangregg | brendangregg ]]
+- [[ https://twitter.com/CloudiusSystems | OSv ]]
+- [[ https://twitter.com/fisherman | qingcloud ]]
+
+=== blogs website ===
+- [[ http://www.brendangregg.com/ | performance guy ]]
+
+==== appending reading ====
+- [[ http://www.wzxue.com/rbdcache/ | rbd cache ]]
 
 ==== tasks ====
 * [ ] Deploy OSv
