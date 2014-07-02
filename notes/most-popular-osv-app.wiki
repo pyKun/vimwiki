@@ -1,0 +1,3 @@
+=== how to calc download status of image repo ===
+- use S3 + S3stat
+- OSv find _tomcat_, _cassandra_ and _memcached_ is the most poplular

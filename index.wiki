@@ -1,11 +1,13 @@
 == This is temporary homepage ==
 Below are my references...
 
-=== OSv blog understanding ===
-- [[ http://osv.io/blog/blog/2014/07/01/s3stat/ | What Is the Most Popular OSv Virtual Appliance? ]]
+=== reading resource ===
+- [[ http://osv.io/blog/blog/2014/07/01/s3stat/ | Most Popular OSv Virtual Appliance? ]], [[notes/most-popular-osv-app|notes]]
 - Dead hypervisors: [[ http://osv.io/blog/blog/2014/06/19/containers-hypervisors-part-1/ | part 1 ]]
 - Dead hypervisors: [[ http://osv.io/blog/blog/2014/06/19/containers-hypervisors-part-2/ | part 2 ]]
 - Dead hypervisors: [[ http://osv.io/blog/blog/2014/06/23/containers-hypervisors-part-3/ | part 3 ]]
+- [[ http://www.wzxue.com/rbdcache/ | rbd cache ]]
+- [[ http://qing.blog.sina.com.cn/2244218960/85c4105033000b4h.html | 竖井式 ]]
 
 === twitter resource ===
 - [[ https://twitter.com/brendangregg | brendangregg ]]
@@ -13,10 +15,10 @@ Below are my references...
 - [[ https://twitter.com/fisherman | qingcloud ]]
 
 === blogs website ===
-- [[ http://www.brendangregg.com/ | performance guy ]]
-
-==== appending reading ====
-- [[ http://www.wzxue.com/rbdcache/ | rbd cache ]]
+- [[ http://www.brendangregg.com/ | Gregg ]]
+- [[ http://osv.io/blog/ | OSv]]
+- [[ http://www.mirantis.com/blog/ | mirantis ]]
+- [[ http://qing.blog.sina.com.cn/linshiding | 林仕鼎 ]]
 
 ==== tasks ====
 * [ ] Deploy OSv
