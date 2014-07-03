@@ -19,6 +19,8 @@ Below are my references...
 - [[ http://osv.io/blog/ | OSv]]
 - [[ http://www.mirantis.com/blog/ | mirantis ]]
 - [[ http://qing.blog.sina.com.cn/linshiding | 林仕鼎 ]]
+- [[ http://liyu1981.github.io/index.html | smart os 的一个爱好者 ]]
+- [[ http://www.dogeos.net/ | 国人的一个 smart os 发行版？]]
 
 ==== tasks ====
 * [ ] Deploy OSv
