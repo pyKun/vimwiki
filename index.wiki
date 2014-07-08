@@ -8,6 +8,7 @@ Below are my references...
 - Dead hypervisors: [[ http://osv.io/blog/blog/2014/06/23/containers-hypervisors-part-3/ | part 3 ]]
 - [[ http://www.wzxue.com/rbdcache/ | rbd cache ]]
 - [[ http://qing.blog.sina.com.cn/2244218960/85c4105033000b4h.html | 竖井式 ]]
+- [[ http://blog.chinaunix.net/uid/7494944.html | IO stack ]]
 
 === twitter resource ===
 - [[ https://twitter.com/brendangregg | brendangregg ]]
@@ -21,7 +22,9 @@ Below are my references...
 - [[ http://qing.blog.sina.com.cn/linshiding | 林仕鼎 ]]
 - [[ http://liyu1981.github.io/index.html | smart os 的一个爱好者 ]]
 - [[ http://www.dogeos.net/ | 国人的一个 smart os 发行版？]]
+- [[ http://blog.chinaunix.net/uid/7494944.html | kernel developer ]]
 
 ==== tasks ====
 * [ ] Deploy OSv
 * [ ] Deploy Docker
+* [ ] Deploy CoreOS
