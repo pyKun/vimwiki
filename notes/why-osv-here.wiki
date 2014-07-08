@@ -1,0 +1,5 @@
+=== why osv here ===
+- Docker is amazing but has many disadvantages (secure ...)
+- Tranditional hypervisors are many years experience on industry.
+- OSv here is to hack guest OS, keep vm interface and run as docker.
+- And the target is performance.

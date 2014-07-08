@@ -5,7 +5,7 @@ Below are my references...
 - [[ http://osv.io/blog/blog/2014/07/01/s3stat/ | Most Popular OSv Virtual Appliance? ]], [[notes/most-popular-osv-app|notes]]
 - Dead hypervisors: [[ http://osv.io/blog/blog/2014/06/19/containers-hypervisors-part-1/ | part 1 ]]
 - Dead hypervisors: [[ http://osv.io/blog/blog/2014/06/19/containers-hypervisors-part-2/ | part 2 ]]
-- Dead hypervisors: [[ http://osv.io/blog/blog/2014/06/23/containers-hypervisors-part-3/ | part 3 ]]
+- Dead hypervisors: [[ http://osv.io/blog/blog/2014/06/23/containers-hypervisors-part-3/ | part 3 ]], [[notes/why-osv-here|notes]]
 - [[ http://www.wzxue.com/rbdcache/ | rbd cache ]]
 - [[ http://qing.blog.sina.com.cn/2244218960/85c4105033000b4h.html | 竖井式 ]]
 - [[ http://blog.chinaunix.net/uid/7494944.html | IO stack ]]
