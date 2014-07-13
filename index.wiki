@@ -27,6 +27,7 @@ Below are my references...
 - [[ http://blog.chinaunix.net/uid/7494944.html | kernel developer ]]
 
 ==== tasks ====
-* [ ] Deploy OSv
+* [X] Deploy OSv
+* [ ] write some notes about deploy OSv on CentOS and Fedora :)
 * [ ] Deploy Docker
 * [ ] Deploy CoreOS
