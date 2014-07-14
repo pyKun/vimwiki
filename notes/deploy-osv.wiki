@@ -1,0 +1,20 @@
+=== Deploy OSv on CentOS 6.4 ===
+you need depoly so many tools you self
+
+===== gcc 4.8 =====
+- repo: http://puias.princeton.edu/data/puias/DevToolset/6/x86_64/
+- ref: http://superuser.com/questions/381160/how-to-install-gcc-4-7-x-4-8-x-on-centos
+
+===== java 1.7 or ... =====
+- run 'yum search java | grep -i --color JDK'
+- yum install <what you need>
+
+===== maven =====
+- from repo, a private one: http://repos.fedorapeople.org/repos/dchen/apache-maven/epel-apache-maven.repo
+- from source, unpack is enough "tar -zxvf ..."
+
+=== Deploy OSv on Fedora 20 ===
+- see document: https://github.com/cloudius-systems/osv
+- 'yum install ant autoconf automake boost-static gcc-c++ genromfs libvirt libtool flex bison qemu-system-x86 qemu-img maven maven-shade-plugin python-dpkt tcpdump gdb'
+- yum update
+- make
