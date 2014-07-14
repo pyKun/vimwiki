@@ -1,0 +1,19 @@
+=== About Docker ===
+Docker is a linux container tool, which builds a friendly mechanism to run containers.
+
+=== Docker backend ===
+- libcontainer, by docker developers, which is default container backend now
+- LXC, liblxc, by LXC developers
+- LibVirt, libvirt-container, by libvirt developers
+- systemd-nspawn, by systemd developers
+- - http://www.freedesktop.org/software/systemd/man/systemd-nspawn.html
+- - https://wiki.archlinux.org/index.php/Arch_systemd_container
+- - http://lilydjwg.is-programmer.com/2014/2/19/duplicate-your-system-with-aufs-and-lxc.42928.html
+
+==== special FS ====
+Union filesystems allow multiple filesystems to be combined and presented to the user as a single tree.
+http://lwn.net/Articles/447650/
+- union fs, used by docker http://git.fsl.cs.sunysb.edu/ kernel/linux-unionfs
+- aufs, aufs.sourceforge.ne
+- mhddfs, https://romanrm.net/mhddfs
+- overlayfs

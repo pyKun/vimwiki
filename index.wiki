@@ -29,5 +29,8 @@ Below are my references...
 ==== tasks ====
 * [X] Deploy OSv [[notes/deploy-osv]]
 * [X] write some notes about deploy OSv on CentOS and Fedora :)
-* [ ] Deploy Docker
+* [X] Deploy Docker [[notes/about-docker]]
+* [ ] Understanding cgroups
+* [ ] Understanding basic containers
+* [ ] Understanding namespace
 * [ ] Deploy CoreOS
